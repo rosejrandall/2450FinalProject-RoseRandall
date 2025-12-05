@@ -1,1 +1,4 @@
-
+appt_id,date,time,client_id,tech_id,service,price,status
+3001,2025-12-01,11:00,101,203,Gel Pedicure,55.00,Booked
+3002,2025-12-01,10:00,103,204,Gel Manicure,55.00,Booked
+3003,2025-12-12,13:00,102,203,Pedicure,45.00,Booked
