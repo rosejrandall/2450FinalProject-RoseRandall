@@ -1,6 +1,0 @@
-client_id,name,phone
-101,Cathy Smith,555-1234
-102,Bret,7027647658
-103,Ty Jones,7021345678
-
-
